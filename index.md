@@ -1,7 +1,7 @@
 Bradley Nathanson bnathanson@ucsd.edu
-<br>
+<br><br>
 A13 Yu-Xiang Wang 
-<br>
+<br><br>
 The answers to the following four prompts, which are meant to help you brainstorm for your Quarter 2 Project Proposal, due on December 2nd. For each prompt, state the question that you’re answering in bold and write your answer immediately underneath on a new line. Make sure you’ve familarized yourself with the Quarter 2 Project Proposal specifications before proceeding!
 <br>
 <br>
