@@ -8,7 +8,7 @@ The answers to the following four prompts, which are meant to help you brainstor
 **What is the most interesting topic covered in your domain this quarter?**
 <br>
 The most interesting topic covered in my domain this quarter is the application of differentially private mechanisms in various companies and industries. It’s fascinating to explore how these methods are implemented and whether they make sense in real-world scenarios.
-<br>
+<br><br>
 **Describe a potential investigation you would like to pursue for your Quarter 2 Project.**
 <br>
 I would like to investigate different differentially private mechanisms for a multitude of analysis from the intel telemetry dataset. 
